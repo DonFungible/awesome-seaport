@@ -1,9 +1,6 @@
 # List of NFT marketplace resources
 
-1. OpenSea/SeaPort
-- [Etherscan](https://etherscan.io/address/0x00000000006c3852cbef3e08e8df289169ede581#code)
-- [GitHub](https://github.com/ProjectOpenSea/seaport)
-- [Official docs](https://docs.opensea.io/v2.0/reference/seaport-overview)
+1. OpenSea/SeaPort ([Etherscan](https://etherscan.io/address/0x00000000006c3852cbef3e08e8df289169ede581#code), [GitHub](https://github.com/ProjectOpenSea/seaport), [Official docs](https://docs.opensea.io/v2.0/reference/seaport-overview))
 
 2. Blur
 - [Etherscan](https://etherscan.io/address/0x031aa05da8bf778dfc36d8d25ca68cbb2fc447c6#code)
