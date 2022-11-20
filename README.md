@@ -6,3 +6,4 @@
 4. Rarible ([Etherscan](https://etherscan.io/address/0x4fee7b061c97c9c496b01dbce9cdb10c02f0a0be#code))
 5. X2Y2 ([Etherscan](https://etherscan.io/address/0x74312363e45dcaba76c59ec49a7aa8a65a67eed3#code))
 6. Sudoswap ([Etherscan](https://etherscan.io/address/0x2B2e8cDA09bBA9660dCA5cB6233787738Ad68329#code), [GitHub](https://github.com/sudoswap), [Docs](https://docs.sudoswap.xyz/))
+7. Foundation ([Etherscan](https://etherscan.io/address/0xcda72070e455bb31c7690a170224ce43623d0b6f#code), [GitHub](https://github.com/f8n), [Docs](https://docs.foundation.app/docs/))
