@@ -10,5 +10,4 @@
 
 ## Relevant EIPs
 - [EIP-712](https://eips.ethereum.org/EIPS/eip-712)
-- [EIP-1271](https://eips.ethereum.org/EIPS/eip-1271)
 - [EIP-2981](https://eips.ethereum.org/EIPS/eip-2981)
