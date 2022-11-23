@@ -9,5 +9,7 @@
 7. Foundation ([Etherscan](https://etherscan.io/address/0xcda72070e455bb31c7690a170224ce43623d0b6f#code), [GitHub](https://github.com/f8n), [Docs](https://docs.foundation.app/docs/))
 
 ## Relevant EIPs
+- [EIP-20](https://eips.ethereum.org/EIPS/eip-20)
 - [EIP-712](https://eips.ethereum.org/EIPS/eip-712)
+- [EIP-721](https://eips.ethereum.org/EIPS/eip-721)
 - [EIP-2981](https://eips.ethereum.org/EIPS/eip-2981)
