@@ -12,9 +12,14 @@
 - [Uniswap](https://app.uniswap.org/#/nfts) 
 
 
-## Marketplace tools, SDKs, APIs
+## Tools, SDKs, APIs, Infrastructure
 - [Reservoir](https://www.reservoir.market/)
-- 
+- [Thirdweb](https://thirdweb.com/thirdweb.eth/Marketplace)
+- [Alchemy](https://alchemy.com)
+- [Infura](https://www.infura.io/)
+
+
+## Blockchain Infrastructure, Indexers, 
 
 ## web3 libraries
 - ethers, wagmi, rainbowkit, hardhat, foundry, 
