@@ -17,9 +17,8 @@
 - [Thirdweb](https://thirdweb.com/thirdweb.eth/Marketplace)
 - [Alchemy](https://alchemy.com)
 - [Infura](https://www.infura.io/)
+- [SimpleHash](https://simplehash.com/)
 
-
-## Blockchain Infrastructure, Indexers, 
 
 ## web3 libraries
 - ethers, wagmi, rainbowkit, hardhat, foundry, 
