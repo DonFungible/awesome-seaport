@@ -39,7 +39,10 @@ Videos:
 - [Solidity Fridays: "Seaport from OpenSea"](https://www.youtube.com/watch?v=juP22m8kiKM)
 - [NFTNYC 2022: "Introducing the Seaport protocol"](https://www.youtube.com/watch?v=XHVk5Se5ChA)
 
-# Misc.
+## Databases
+- [awesome-database-learning](https://github.com/pingcap/awesome-database-learning)
+- [7 Database Paradigms - Fireship Video](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
+
 
 ## Security/Auditing
 - Trail of Bits, OpenZeppelin, Forta, CertiK, ConsenSys, Certora
