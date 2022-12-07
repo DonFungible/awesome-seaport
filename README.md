@@ -38,6 +38,7 @@ Videos:
 - [ETHGlobal 2022: "Seaport Protocol Intro"](https://www.youtube.com/watch?v=H9iSgju3qIc)
 - [Solidity Fridays: "Seaport from OpenSea"](https://www.youtube.com/watch?v=juP22m8kiKM)
 - [NFTNYC 2022: "Introducing the Seaport protocol"](https://www.youtube.com/watch?v=XHVk5Se5ChA)
+- [OpenSea 🛠 Basic and Advanced Seaport Techniques - Ryan Ghods](https://www.youtube.com/watch?v=Rl8ydxrSM6Y)
 
 ## Databases
 - [awesome-database-learning](https://github.com/pingcap/awesome-database-learning)
