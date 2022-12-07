@@ -44,6 +44,8 @@ Videos:
 - [awesome-database-learning](https://github.com/pingcap/awesome-database-learning)
 - [7 Database Paradigms - Fireship Video](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
 
+## Matching Policies
+- [StandardPolicyERC721 (Blur)](https://etherscan.io/address/0x0000000000dab4a563819e8fd93dba3b25bc3495#code)
 
 ## Security/Auditing
 - Trail of Bits, OpenZeppelin, Forta, CertiK, ConsenSys, Certora
