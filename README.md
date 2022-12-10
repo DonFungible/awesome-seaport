@@ -10,7 +10,10 @@
 - Foundation ([Etherscan](https://etherscan.io/address/0xcda72070e455bb31c7690a170224ce43623d0b6f#code), [GitHub](https://github.com/f8n), [Docs](https://docs.foundation.app/docs/))
 - 0x ([Docs](https://docs.0x.org/nft-support/docs))
 - [Uniswap](https://app.uniswap.org/#/nfts) 
-
+- [Quix](https://qx.app/)
+- [AQUA](https://aqua.xyz/)
+- [ImmutableX Marketplace](https://market.immutable.com/)
+- [GameStop](https://nft.gamestop.com/explore)
 
 ## Tools, SDKs, APIs, Infrastructure
 - [Reservoir](https://www.reservoir.market/)
