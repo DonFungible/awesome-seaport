@@ -43,10 +43,6 @@ Videos:
 - [NFTNYC 2022: "Introducing the Seaport protocol"](https://www.youtube.com/watch?v=XHVk5Se5ChA)
 - [OpenSea 🛠 Basic and Advanced Seaport Techniques - Ryan Ghods](https://www.youtube.com/watch?v=Rl8ydxrSM6Y)
 
-## Databases
-- [awesome-database-learning](https://github.com/pingcap/awesome-database-learning)
-- [7 Database Paradigms - Fireship Video](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
-
 ## Matching Policies
 - [StandardPolicyERC721 (Blur)](https://etherscan.io/address/0x0000000000dab4a563819e8fd93dba3b25bc3495#code)
 
