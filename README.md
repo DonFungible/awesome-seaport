@@ -33,7 +33,9 @@
 - [EIP-2981](https://eips.ethereum.org/EIPS/eip-2981)
 
 ## SeaPort
-
+Helpers:
+- [SeaportJS](https://github.com/ProjectOpenSea/seaport-js)
+- [Seaport Order Validator](https://github.com/ProjectOpenSea/seaport-order-validator)
 
 Videos:
 - [Devcon Bogota 2022: "Advanced Seaport Techniques" workshop](https://www.youtube.com/watch?v=ZpSsFXv7Fwk&t=25636s)
