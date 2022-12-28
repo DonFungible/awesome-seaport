@@ -38,7 +38,7 @@ Helpers:
 - [Seaport Order Validator](https://github.com/ProjectOpenSea/seaport-order-validator)
 
 Videos:
-- [Devcon Bogota 2022: "Advanced Seaport Techniques" workshop](https://www.youtube.com/watch?v=ZpSsFXv7Fwk&t=25636s)
+- [Devcon Bogota 2022: "Advanced Seaport Techniques" workshop](https://www.youtube.com/watch?v=YLWnaSymFHA)
 - [Into the Bytecode: Podcast](https://www.youtube.com/watch?v=d4JSkpiEyd8)
 - [ETHGlobal 2022: "Seaport Protocol Intro"](https://www.youtube.com/watch?v=H9iSgju3qIc)
 - [Solidity Fridays: "Seaport from OpenSea"](https://www.youtube.com/watch?v=juP22m8kiKM)
