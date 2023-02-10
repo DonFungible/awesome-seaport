@@ -14,23 +14,14 @@
 - [AQUA](https://aqua.xyz/)
 - [ImmutableX Marketplace](https://market.immutable.com/)
 - [GameStop](https://nft.gamestop.com/explore)
-
-## Tools, SDKs, APIs, Infrastructure
-- [Reservoir](https://www.reservoir.market/)
-- [Thirdweb](https://thirdweb.com/thirdweb.eth/Marketplace)
-- [Alchemy](https://alchemy.com)
-- [Infura](https://www.infura.io/)
-- [SimpleHash](https://simplehash.com/)
-
-
-## web3 libraries
-- ethers, wagmi, rainbowkit, hardhat, foundry, 
+...too many that have no volume
 
 ## Relevant EIPs
 - [EIP-20](https://eips.ethereum.org/EIPS/eip-20)
 - [EIP-712](https://eips.ethereum.org/EIPS/eip-712)
 - [EIP-721](https://eips.ethereum.org/EIPS/eip-721)
 - [EIP-2981](https://eips.ethereum.org/EIPS/eip-2981)
+- [EIP-4337](https://eips.ethereum.org/EIPS/eip-4337)
 
 ## SeaPort
 Helpers:
@@ -44,9 +35,3 @@ Videos:
 - [Solidity Fridays: "Seaport from OpenSea"](https://www.youtube.com/watch?v=juP22m8kiKM)
 - [NFTNYC 2022: "Introducing the Seaport protocol"](https://www.youtube.com/watch?v=XHVk5Se5ChA)
 - [OpenSea 🛠 Basic and Advanced Seaport Techniques - Ryan Ghods](https://www.youtube.com/watch?v=Rl8ydxrSM6Y)
-
-## Matching Policies
-- [StandardPolicyERC721 (Blur)](https://etherscan.io/address/0x0000000000dab4a563819e8fd93dba3b25bc3495#code)
-
-## Security/Auditing
-- Trail of Bits, OpenZeppelin, Forta, CertiK, ConsenSys, Certora
