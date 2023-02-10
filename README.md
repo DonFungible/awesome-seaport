@@ -14,6 +14,7 @@
 - [AQUA](https://aqua.xyz/)
 - [ImmutableX Marketplace](https://market.immutable.com/)
 - [GameStop](https://nft.gamestop.com/explore)
+
 ...too many that have no volume
 
 ## Relevant EIPs
