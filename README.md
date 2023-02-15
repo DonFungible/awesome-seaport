@@ -1,10 +1,10 @@
 # Developer resources for learning about Seaport
 Current version: 1.2
 
-Address: 0x00000000000006c7676171937C444f6BDe3D6282 (on most EVM chains)
+Address: [0x00000000000006c7676171937C444f6BDe3D6282](https://etherscan.io/address/0x00000000000006c7676171937C444f6BDe3D6282#code)(on most EVM chains)
 
 ## Links
-- [Etherscan](https://etherscan.io/address/0x00000000006c3852cbef3e08e8df289169ede581#code)
+- [Etherscan](https://etherscan.io/address/0x00000000000006c7676171937C444f6BDe3D6282#code)
 - [GitHub](https://github.com/ProjectOpenSea/seaport)
 - [Docs](https://docs.opensea.io/v2.0/reference/seaport-overview)
 - [Discord](https://discord.gg/9jcjC5XMrr)
