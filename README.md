@@ -1,5 +1,6 @@
 # Developer resources for learning about Seaport
 Current version: 1.2
+
 Address: 0x00000000000006c7676171937C444f6BDe3D6282 (on most EVM chains)
 
 ## Links
