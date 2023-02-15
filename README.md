@@ -37,7 +37,7 @@ Address: [0x00000000000006c7676171937C444f6BDe3D6282](https://etherscan.io/addre
 - [EIP-4337](https://eips.ethereum.org/EIPS/eip-4337)
 
 ## Other Marketplaces
-- Blur ([Etherscan](https://etherscan.io/address/0x031aa05da8bf778dfc36d8d25ca68cbb2fc447c6#code))
+- Old Blur contract (Blur currently uses Seaport) ([Etherscan](https://etherscan.io/address/0x031aa05da8bf778dfc36d8d25ca68cbb2fc447c6#code))
 - LooksRare ([Etherscan](https://etherscan.io/address/0x59728544B08AB483533076417FbBB2fD0B17CE3a#code), [GitHub](https://github.com/LooksRare), [Docs](https://docs.looksrare.org/developers/welcome), [Discord](https://discord.gg/looksraredevelopers))
 - Rarible ([Etherscan](https://etherscan.io/address/0x4fee7b061c97c9c496b01dbce9cdb10c02f0a0be#code))
 - X2Y2 ([Etherscan](https://etherscan.io/address/0x74312363e45dcaba76c59ec49a7aa8a65a67eed3#code))
