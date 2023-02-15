@@ -9,7 +9,7 @@ Address: [0x00000000000006c7676171937C444f6BDe3D6282](https://etherscan.io/addre
 - [Docs](https://docs.opensea.io/v2.0/reference/seaport-overview)
 - [Discord](https://discord.gg/9jcjC5XMrr)
 
-33 Videos:
+## Videos:
 - [Devcon Bogota 2022: "Advanced Seaport Techniques" workshop](https://www.youtube.com/watch?v=YLWnaSymFHA)
 - [Into the Bytecode: Podcast](https://www.youtube.com/watch?v=d4JSkpiEyd8)
 - [ETHGlobal 2022: "Seaport Protocol Intro"](https://www.youtube.com/watch?v=H9iSgju3qIc)
