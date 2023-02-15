@@ -1,4 +1,6 @@
 # Developer resources for learning about Seaport
+Current version: 1.2
+Address: 0x00000000000006c7676171937C444f6BDe3D6282 (on most EVM chains)
 
 ## Links
 - [Etherscan](https://etherscan.io/address/0x00000000006c3852cbef3e08e8df289169ede581#code)
@@ -13,7 +15,7 @@
 - [EIP-2981](https://eips.ethereum.org/EIPS/eip-2981)
 - [EIP-4337](https://eips.ethereum.org/EIPS/eip-4337)
 
-## SeaPort
+## Seaport
 Helpers:
 - [SeaportJS](https://github.com/ProjectOpenSea/seaport-js)
 - [Seaport Order Validator](https://github.com/ProjectOpenSea/seaport-order-validator)
