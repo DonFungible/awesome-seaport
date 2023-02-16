@@ -27,14 +27,14 @@ Address: [0x00000000000006c7676171937C444f6BDe3D6282](https://etherscan.io/addre
 - [Ryan](https://twitter.com/ralxzryan)
 - [emo](https://twitter.com/emo_eth)
 
-## Relevant Marketplace EIPs 
-- [EIP-20](https://eips.ethereum.org/EIPS/eip-20)
-- [EIP-165](https://eips.ethereum.org/EIPS/eip-165)
-- [EIP-712](https://eips.ethereum.org/EIPS/eip-712)
-- [EIP-721](https://eips.ethereum.org/EIPS/eip-721)
-- [EIP-1271](https://eips.ethereum.org/EIPS/eip-1271)
-- [EIP-2981](https://eips.ethereum.org/EIPS/eip-2981)
-- [EIP-4337](https://eips.ethereum.org/EIPS/eip-4337)
+## Relevant EIPs 
+- [EIP-20: Token Standard](https://eips.ethereum.org/EIPS/eip-20)
+- [EIP-712: Typed structured data hashing and signing](https://eips.ethereum.org/EIPS/eip-712)
+- [EIP-721: Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721)
+- [EIP-1271: Standard Signature Validation Method for Contracts](https://eips.ethereum.org/EIPS/eip-1271)
+- [EIP-2981: NFT Royalty Standard](https://eips.ethereum.org/EIPS/eip-2981)
+- [EIP-4337: Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
+- [EIP-4906: EIP-721 Metadata Update Extension](https://eips.ethereum.org/EIPS/eip-4906)
 
 ## Other Marketplaces
 - Old Blur contract (Blur currently uses Seaport) ([Etherscan](https://etherscan.io/address/0x031aa05da8bf778dfc36d8d25ca68cbb2fc447c6#code))
