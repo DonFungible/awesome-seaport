@@ -52,9 +52,10 @@ graph TD
 - [NFTNYC 2022: "Introducing the Seaport protocol"](https://www.youtube.com/watch?v=XHVk5Se5ChA)
 - [ETHGlobal 2022: OpenSea 🛠 Basic and Advanced Seaport Techniques - Ryan Ghods](https://www.youtube.com/watch?v=Rl8ydxrSM6Y)
 
-## Helpers:
+## Other Relevant Repositories:
 - [SeaportJS](https://github.com/ProjectOpenSea/seaport-js)
 - [Seaport Order Validator](https://github.com/ProjectOpenSea/seaport-order-validator)
+- [Seaport Improvement Proposals (SIPs)](https://github.com/ProjectOpenSea/SIPs)
 
 ## Projects using Seaport:
 - _Create a PR and add your project here_
