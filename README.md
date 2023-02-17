@@ -1,7 +1,42 @@
 # Developer resources for learning about Seaport
-Current version: 1.2
 
-Address: [0x00000000000006c7676171937C444f6BDe3D6282](https://etherscan.io/address/0x00000000000006c7676171937C444f6BDe3D6282#code)(on most EVM chains)
+## Introduction
+[Seaport](https://github.com/ProjectOpenSea/seaport) is an NFT marketplace protocol developed and used by [OpenSea](https://opensea.io/). It was [first introduced](https://twitter.com/opensea/status/1527705996549685248?lang=en) in May 2022 as an upgrade to OpenSea's previous marketplace protocol, [Wyvern](https://github.com/wyvernprotocol/wyvern-v3), significantly reducing gas costs and adding new features such as bulk buying/selling, supporting different payment currencies, etc.            
+
+### Architecture:
+```mermaid
+graph TD
+    Offer & Consideration --> Order
+    zone & conduitKey --> Order
+
+    subgraph Seaport[ ]
+    Order --> Fulfill & Match
+    Order --> Validate & Cancel
+    end
+
+    Validate --> Verify
+    Cancel --> OrderStatus
+
+    Fulfill & Match --> OrderCombiner --> OrderFulfiller
+
+    OrderCombiner --> BasicOrderFulfiller --> OrderValidator
+    OrderCombiner --> FulfillmentApplier
+
+    OrderFulfiller --> CriteriaResolution
+    OrderFulfiller --> AmountDeriver
+    OrderFulfiller --> OrderValidator
+    
+    OrderValidator --> ZoneInteraction
+    OrderValidator --> Executor --> TokenTransferrer
+    Executor --> Conduit --> TokenTransferrer
+    
+    Executor --> Verify
+    
+
+    subgraph Verifiers[ ]
+    Verify --> Time & Signature & OrderStatus
+    end
+```
 
 ## Links
 - [Etherscan](https://etherscan.io/address/0x00000000000006c7676171937C444f6BDe3D6282#code)
@@ -31,6 +66,7 @@ Address: [0x00000000000006c7676171937C444f6BDe3D6282](https://etherscan.io/addre
 - [EIP-20: Token Standard](https://eips.ethereum.org/EIPS/eip-20)
 - [EIP-712: Typed structured data hashing and signing](https://eips.ethereum.org/EIPS/eip-712)
 - [EIP-721: Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721)
+- [EIP-2098]: Compact Signature Representation](https://eips.ethereum.org/EIPS/eip-2098)
 - [EIP-1271: Standard Signature Validation Method for Contracts](https://eips.ethereum.org/EIPS/eip-1271)
 - [EIP-2981: NFT Royalty Standard](https://eips.ethereum.org/EIPS/eip-2981)
 - [EIP-4337: Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
