@@ -56,6 +56,9 @@ graph TD
 - [SeaportJS](https://github.com/ProjectOpenSea/seaport-js)
 - [Seaport Order Validator](https://github.com/ProjectOpenSea/seaport-order-validator)
 
+## Projects using Seaport:
+- _Create a PR and add your project here_
+
 ## Main contributors to follow:
 - [z0age](https://twitter.com/z0age)
 - [Kartik](https://twitter.com/Slokh)
