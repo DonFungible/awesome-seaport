@@ -57,7 +57,9 @@ graph TD
 - [Seaport Order Validator](https://github.com/ProjectOpenSea/seaport-order-validator)
 - [Seaport Improvement Proposals (SIPs)](https://github.com/ProjectOpenSea/SIPs)
 
-## Projects using Seaport:
+## Marketplaces/Projects using Seaport:
+- [OpenSea](https://opensea.io)
+- [Blur](https://blur.io)
 - _Create a PR and add your project here_
 
 ## Main contributors to follow:
