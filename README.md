@@ -66,7 +66,7 @@ graph TD
 - [EIP-20: Token Standard](https://eips.ethereum.org/EIPS/eip-20)
 - [EIP-712: Typed structured data hashing and signing](https://eips.ethereum.org/EIPS/eip-712)
 - [EIP-721: Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721)
-- [EIP-2098]: Compact Signature Representation](https://eips.ethereum.org/EIPS/eip-2098)
+- [EIP-2098: Compact Signature Representation](https://eips.ethereum.org/EIPS/eip-2098)
 - [EIP-1271: Standard Signature Validation Method for Contracts](https://eips.ethereum.org/EIPS/eip-1271)
 - [EIP-2981: NFT Royalty Standard](https://eips.ethereum.org/EIPS/eip-2981)
 - [EIP-4337: Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
