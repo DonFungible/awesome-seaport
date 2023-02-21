@@ -39,7 +39,7 @@ graph TD
 ```
 
 ## Links
-- [Etherscan](https://etherscan.io/address/0x00000000000006c7676171937C444f6BDe3D6282#code)
+- [Etherscan](0x00000000000001ad428e4906aE43D8F9852d0dD6#code)
 - [GitHub](https://github.com/ProjectOpenSea/seaport)
 - [Docs](https://docs.opensea.io/v2.0/reference/seaport-overview)
 - [Discord](https://discord.gg/9jcjC5XMrr)
