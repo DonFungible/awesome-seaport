@@ -51,6 +51,7 @@ graph TD
 - [Solidity Fridays: "Seaport from OpenSea"](https://www.youtube.com/watch?v=juP22m8kiKM)
 - [NFTNYC 2022: "Introducing the Seaport protocol"](https://www.youtube.com/watch?v=XHVk5Se5ChA)
 - [ETHGlobal 2022: OpenSea 🛠 Basic and Advanced Seaport Techniques - Ryan Ghods](https://www.youtube.com/watch?v=Rl8ydxrSM6Y)
+- [Deep Dive Into Seaport 1.4 with 0age](https://www.youtube.com/watch?v=LbrkzgoDR0g)
 
 ## Other Relevant Repositories:
 - [SeaportJS](https://github.com/ProjectOpenSea/seaport-js)
